@@ -1,0 +1,487 @@
+Mohammed Habib Qureshi
+He/Him
+
+Embedded Systems & IoT Engineer | AWS Certified | ESP32 · STM32 · Raspberry Pi | Python · C | Building Secure Smart Systems | Open to Internships
+
+Kanker, Chhattisgarh, India
+
+·
+
+Contact info
+
+182 connections
+
+About section:
+
+ I’m an IoT and Embedded Systems engineer focused on building real-world smart solutions using ESP32, STM32, and Raspberry Pi.
+ 
+I have hands-on experience developing systems such as real-time environmental monitoring networks, gesture-controlled robotic systems using OpenCV, and IoT-based smart mirrors with cloud integration — gaining strong practical experience in hardware integration, sensor interfacing, and Python/C development.
+ 
+Alongside this, I’m actively working in cybersecurity, building network security and vulnerability scanning tools, with a focus on understanding how connected systems can be exploited and hardened.
+ 
+I’m also exploring blockchain concepts to understand how decentralized technologies can enhance security, trust, and data integrity in connected systems.
+ 
+Currently seeking internship opportunities in IoT, Embedded Systems, or Cybersecurity — open to Hyderabad, Bangalore, Pune, or Remote.
+
+Education
+
+KL University logo
+KL University
+
+Bachelor of Technology - BTech
+
+Aug 2023 – May 2027
+
+Activities and societies: Volleyball, Basketball, Social Immense Learning, Projects
+
+B-Tech IoT - Specialization in IoT, Embedded & Security.
+
+Life Academy
+
+Intermediate (12th), MPC
+
+Jul 2021 – Apr 2022
+
+Activities and societies: Volleyball, Basketball, Badminton
+
+
+Licenses & certifications section: 
+
+Oracle logo
+Agentic AI Certified Foundational Associate
+
+Oracle
+
+Issued Jul 2026
+
+Show credential
+Skills: AI Agents, Model Context Protocol (MCP), +1 skill
+
+Thumbnail for Agentic AI Certified Foundations Associate
+Agentic AI Certified Foundations Associate
+
+Embedded System Application and IoT Programming
+
+Taras Systems and Solutions
+
+Issued May 2025
+
+Credential ID TSS2895
+
+Skills: Embedded Systems, Internet of Things (IoT)
+
+Thumbnail for Embedded System Application and IoT Programming Certificate
+Embedded System Application and IoT Programming Certificate
+
+Coursera logo
+Computer Forensics
+
+Coursera
+
+Issued Mar 2026
+
+Show credential
+Skills: Computer Networking
+
+Thumbnail for Computer Forensics
+Computer Forensics
+
+Amazon Web Services (AWS) logo
+Amazon Web Services Cloud Practitioner
+
+Amazon Web Services (AWS)
+
+Issued Mar 2026 · Expires Mar 2029
+
+Credential ID 5ece82c4eb5343438665dc3d5ca52a80
+
+Show credential
+Skills: AWS Cloud Practitioner
+
+Thumbnail for Amazon Web Service - Cloud Practitioner
+Amazon Web Service - Cloud Practitioner
+
+Google logo
+The Bits and Bytes of Computer Networking
+
+Google
+
+Issued Mar 2025
+
+Show credential
+Skills: Computer Networking
+
+Thumbnail for Bits and Bytes of computing network
+Bits and Bytes of computing network
+
+NPTEL logo
+Introduction to Internet of Things
+
+NPTEL
+
+Issued Oct 2024
+
+Skills: Hardware Integration, Wireless Sensor Networks (WSN), +3 skills
+
+Thumbnail for Introduction to Internet of Things
+Introduction to Internet of Things
+
+IBM logo
+Introduction to Artificial Intelligence (AI)
+
+IBM
+
+Issued Dec 2024
+
+Show credential
+Skills: Python (Programming Language)
+
+Thumbnail for Introduction to Artificial Intelligence (AI)
+Introduction to Artificial Intelligence (AI)
+
+Embedded System Application and IoT Programming
+
+TARAS SYSTEMS AND SOLUTIONS
+
+Issued Nov 2024
+
+Skills: Hardware Integration, Embedded C, +5 skills
+
+Thumbnail for Embedded System Application and IoT Programming
+Embedded System Application and IoT Programming
+
+
+Projects section:
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Sep 2025 – Mar 2026
+
+Built a full-stack AI-driven Web Security Suite for automated vulnerability scanning, Web Application Firewall (WAF), and real-time security monitoring using FastAPI and React.
+Integrated Google Gemini AI to deliver intelligent vulnerability analysis, remediation guidance, and automated security reporting.
+Developed the complete application architecture—including backend APIs, database integration, background task processing, WebSocket communication, and an interactive security dashboard.
+
+Tech: Python · FastAPI · React · PostgreSQL · Redis · Celery · Google Gemini AI
+
+Skills: Cybersecurity, Web Application Security, +8 skills
+
+Thumbnail for AI-Driven Web Application Security Suite (WAF + Scanner)
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Thumbnail for Login page
+Login page
+
+Thumbnail for Dashboard
+Dashboard
+
+Show all 9 media
+AWS Cloud Security Posture Monitoring System
+
+Jan 2026 – Mar 2026
+
+Built an automated AWS Cloud Security Posture Monitoring (CSPM) system using AWS Lambda to continuously scan cloud resources for security misconfigurations and compliance risks.
+Implemented real-time monitoring, automated security assessments, and alerting for IAM, S3, EC2, and CloudTrail using Boto3, CloudWatch, SNS, and DynamoDB.
+Led end-to-end development — infrastructure provisioning with Terraform, serverless automation, security scanning, and cloud monitoring.
+
+Tech: AWS Lambda · Python · Boto3 · Terraform · Amazon CloudWatch · Amazon SNS · DynamoDB · IAM · Amazon S3 · Amazon EC2 · CloudTrail
+
+Skills: Amazon Web Services (AWS), Cloud Security, +8 skills
+
+Thumbnail for AWS CSPM Presentation
+AWS CSPM Presentation
+
+Thumbnail for Code
+Code
+
+Thumbnail for Code Execution
+Code Execution
+
+Show all 6 media
+Other contributors
+
+View all contributors
+IoT Multi Parameter Environmental Monitoring System
+
+Oct 2025 – Nov 2025
+
+
+Associated with KL University
+
+Built a real-time environmental monitoring system using ESP32, DHT, air quality, and pressure sensors, integrated with a cloud dashboard for remote visualization.
+Enabled continuous tracking of temperature, humidity, and air quality for smart city and industrial safety use cases.
+Led end-to-end development — sensor interfacing, firmware, IoT communication, and cloud data pipeline.
+
+Tech: ESP32 · DHT22 · MQ135 · MQTT · Python · Arduino IDE
+
+Skills: ESP32 Microcontrollers, Hardware Integration, +2 skills
+
+Thumbnail for Enivronmental-project.docx
+Enivronmental-project.docx
+
+Thumbnail for project-pic.jpg
+project-pic.jpg
+
+Gesture-Driven Robotic Control using OpenCV
+
+Mar 2025 – Apr 2025
+
+Developed a touchless robotic control system using Python, OpenCV, and Arduino, enabling real-time hand gesture recognition for motor control.
+Implemented a gesture detection pipeline and integrated it with Arduino-based motor drivers for seamless human-machine interaction.
+Applicable in automation, assistive technology, and smart manufacturing systems.
+
+Tech: Python · OpenCV · Arduino · Servo Motors · Computer Vision
+
+Skills: Hardware Integration, Python (Programming Language), +3 skills
+
+Thumbnail for Gesture_Driven_Robot_Control_PPT
+Gesture_Driven_Robot_Control_PPT
+
+IoT Smart Mirror using Personal Assistant
+
+Oct 2024 – Feb 2025
+
+
+Associated with KL University
+
+Designed an IoT-powered smart mirror using Raspberry Pi and ESP32, integrated with APIs for real-time weather, news, and calendar updates.
+Implemented a safety layer with DHT and gas sensors, triggering buzzer alerts on hazard detection.
+Handled hardware integration, sensor interfacing, cloud APIs, and MagicMirror UI customization.
+
+Tech: Raspberry Pi · ESP32 · MagicMirror · APIs · JavaScript · Sensors
+
+Skills: ESP32 Microcontrollers, Hardware Integration, +5 skills
+
+Thumbnail for smart mirror using raspberry pi
+smart mirror using raspberry pi
+
+Thumbnail for IoT based smart mirror
+IoT based smart mirror
+
+Thumbnail for IOT Smart Mirror Project
+IOT Smart Mirror Project
+
+Other contributors
+
+View all contributors
+Heart Rate Monitoring Using OLED Display and STM32
+
+Sep 2024 – Sep 2024
+
+Built a portable heart rate monitoring device using STM32 (Blue Pill) and an OLED display, capturing pulse data in real time.
+Developed firmware using STM32 HAL in STM32CubeIDE and implemented a sensor-to-display data pipeline.
+Designed as a low-cost solution for fitness tracking and remote health monitoring.
+
+Tech: STM32 · OLED Display · Embedded C · STM32CubeIDE · Sensors
+
+Skills: STM32 Microcontroller, Hardware Integration, +2 skills
+
+Thumbnail for PROJECT PRESENTATION PPT.pptx
+PROJECT PRESENTATION PPT.pptx
+
+Wildlife Protection And Forest Fires Using Forest Water
+
+Nov 2023 – Dec 2023
+
+
+Associated with KL University
+
+Developed an automated forest fire detection system using smoke sensors, buzzers, and LED-guided shelters.
+Enabled real-time alert triggering to authorities on smoke detection, improving early response to fire hazards.
+Contributed to hardware integration, sensor programming, and real-time detection logic.
+
+Tech: Arduino · Smoke Sensors · Embedded C · IoT Basics · Alert Systems
+
+Skills: Hardware Integration, IoT Architecture, +1 skill
+
+Thumbnail for IoT based Wildlife protection System
+IoT based Wildlife protection System
+
+Thumbnail for Wildlife Management and Forest Fire Protection
+Wildlife Management and Forest Fire Protection
+
+Skills section:
+
+AI Agents
+
+
+Agentic AI Certified Foundational Associate
+
+LangChain
+
+
+Agentic AI Certified Foundational Associate
+
+Model Context Protocol (MCP)
+
+
+Agentic AI Certified Foundational Associate
+
+Internet of Things (IoT)
+
+Embedded System Application and IoT Programming
+
+AWS Lambda
+
+AWS Cloud Security Posture Monitoring System
+
+Terraform
+
+AWS Cloud Security Posture Monitoring System
+
+Infrastructure as code (IaC)
+
+AWS Cloud Security Posture Monitoring System
+
+Amazon CloudWatch
+
+AWS Cloud Security Posture Monitoring System
+
+Boto3
+
+AWS Cloud Security Posture Monitoring System
+
+AWS Identity and Access Management (AWS IAM)
+
+AWS Cloud Security Posture Monitoring System
+
+Amazon Dynamodb
+
+AWS Cloud Security Posture Monitoring System
+
+Cloud Security
+
+AWS Cloud Security Posture Monitoring System
+
+Amazon Web Services (AWS)
+
+AWS Cloud Security Posture Monitoring System
+
+Web Application Security
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Generative AI
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Celery
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+PostgreSQL
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Redis
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+Cybersecurity
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+FastAPI
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+React.js
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+REST APIs
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+C (Programming Language)
+
+AWS Cloud Practitioner
+
+
+Amazon Web Services Cloud Practitioner
+
+OpenCV
+
+Gesture-Driven Robotic Control using OpenCV
+
+IoT Architecture
+
+Heart Rate Monitoring Using OLED Display and STM32
+
+Gesture-Driven Robotic Control using OpenCV
+
+IoT Smart Mirror using Personal Assistant
+
+Show all 7 details
+IoT Protocols
+
+Heart Rate Monitoring Using OLED Display and STM32
+
+Gesture-Driven Robotic Control using OpenCV
+
+IoT Smart Mirror using Personal Assistant
+
+Show all 7 details
+Computer Networking
+
+
+The Bits and Bytes of Computer Networking
+
+
+Computer Forensics
+
+Python (Programming Language)
+
+Gesture-Driven Robotic Control using OpenCV
+
+AI-Driven Web Application Security Suite (WAF + Scanner)
+
+AWS Cloud Security Posture Monitoring System
+
+Show all 4 details
+Wireless Sensor Networks (WSN)
+
+IoT Smart Mirror using Personal Assistant
+
+Embedded System Application and IoT Programming
+
+
+Introduction to Internet of Things
+
+Hardware Integration
+
+Heart Rate Monitoring Using OLED Display and STM32
+
+Gesture-Driven Robotic Control using OpenCV
+
+IoT Smart Mirror using Personal Assistant
+
+Show all 7 details
+Embedded C
+
+Embedded System Application and IoT Programming
+
+Embedded Systems
+
+IoT Smart Mirror using Personal Assistant
+
+Embedded System Application and IoT Programming
+
+
+Introduction to Internet of Things
+
+Show all 4 details
+Raspberry Pi
+
+IoT Smart Mirror using Personal Assistant
+
+STM32 Microcontroller
+
+Heart Rate Monitoring Using OLED Display and STM32
+
+ESP32 Microcontrollers
+
+IoT Smart Mirror using Personal Assistant
+
+IoT Multi Parameter Environmental Monitoring System
+
+Embedded System Application and IoT Programming

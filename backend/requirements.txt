@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+supabase
+google-generativeai
+httpx
+python-multipart
+python-dotenv
+pytest
+pytest-asyncio
+alembic

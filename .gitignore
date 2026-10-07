@@ -1,0 +1,217 @@
+# =====================================================================
+# Root .gitignore — Portfolio monorepo (frontend + backend + supabase)
+# Purpose: keep privacy, secrets, API keys and local-only files out of git
+# Safe to commit: *.example / *.sample / *.template files
+# NEVER commit: real .env files, keys, tokens, personal data dumps
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# 1. Environment files & API keys / secrets / tokens
+# ---------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+!**/.env.template
+
+# Generic secret files
+*.env.local
+.secrets
+secrets.json
+secrets.yaml
+secrets.yml
+*secret*.json
+*secret*.yaml
+*secret*.yml
+*credentials*.json
+*credential*.json
+service-account*.json
+service_account*.json
+*-key.json
+sa-key*.json
+auth.json
+
+# ---------------------------------------------------------------------
+# 2. Private keys, certificates, SSH, GPG
+# ---------------------------------------------------------------------
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.asc
+*.gpg
+*.ppk
+id_rsa*
+id_ed25519*
+*.pub
+!**/*.pub.example
+ssh/
+.ssh/
+
+# ---------------------------------------------------------------------
+# 3. Cloud / provider credentials
+# ---------------------------------------------------------------------
+.aws/
+.azure/
+.gcp/
+serviceAccountKey.json
+firebase-adminsdk*.json
+application_default_credentials.json
+terraform.tfvars
+*.tfvars
+*.tfstate
+*.tfstate.*
+!*.tfstate.example
+.vercel
+.netlify
+supabase/.env
+supabase/.branches/
+supabase/.temp/
+
+# ---------------------------------------------------------------------
+# 4. Privacy / personal data dumps (do NOT commit raw scrapes)
+# ---------------------------------------------------------------------
+# Root LinkedIn scrape duplicate (root only — keeps data/linkedin.txt tracked)
+# so fresh clones still have knowledge base. Uncomment data/ lines below
+# if you want those local-only instead.
+/linkedIn_info.txt
+/linkedin_info.txt
+
+# Personal knowledge sources — uncomment if these should stay local-only.
+# The app reads them via KNOWLEDGE_DATA_DIR, but they contain PII.
+# data/linkedin.txt
+# data/github.json
+# data/*.txt
+# data/*.json
+# data/private/
+
+# Generic PII / resume / private folders
+private/
+personal/
+*resume*.pdf
+*cv*.pdf
+*.eml
+
+# ---------------------------------------------------------------------
+# 5. Python (backend/)
+# ---------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+backend/.venv/
+backend/venv/
+backend/.ruff_cache/
+.ruff_cache/
+.pytest_cache/
+backend/.pytest_cache/
+.mypy_cache/
+.pyre/
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+pytest.ini.local
+
+# SQLite / local databases — contain local/chat data, never commit
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+backend/portfolio.db
+backend/test.db
+portfolio.db
+test.db
+
+# Alembic local versions / seeds with secrets
+# migrations/versions/*.py — keep tracked (schema), ignore local overrides only
+
+# ---------------------------------------------------------------------
+# 6. Node / Next.js (frontend/ + root workspace)
+# ---------------------------------------------------------------------
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.pnpm-store/
+# Keep the lockfile tracked for reproducible installs (pnpm-lock.yaml)
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+.next-trace
+next-env.d.ts
+*.tsbuildinfo
+
+# Frontend coverage / test output
+coverage/
+frontend/coverage/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+pnpm-debug.log*
+
+# ---------------------------------------------------------------------
+# 7. Docker / local volumes
+# ---------------------------------------------------------------------
+pgdata/
+docker/pgdata/
+*.dump
+*.sql.gz
+!supabase/schema.sql
+
+# ---------------------------------------------------------------------
+# 8. OS, editors, IDE
+# ---------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# ---------------------------------------------------------------------
+# 9. Misc temp / local
+# ---------------------------------------------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+.cache/
+.parcel-cache/
+.turbo/

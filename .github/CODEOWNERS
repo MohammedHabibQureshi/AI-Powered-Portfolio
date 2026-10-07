@@ -1,0 +1,10 @@
+# CODEOWNERS setup routing review requirements to domain architects
+
+# General rules
+*                     @portfolio-owner
+
+# Backend files
+/backend/            @portfolio-owner @backend-lead
+
+# Frontend files
+/frontend/           @portfolio-owner @frontend-lead
